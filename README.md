@@ -72,10 +72,26 @@ The DIWATA Image Browser is a QGIS plugin that allows users to browse and downlo
 I was able to contribute to different applications for the management, access, and processing of Diwata-2 images in the Ground Receiving, Archiving, Science Product Development and Distribution (GRASED) project under the Space Technology and Applications Mastery, Innovation, and Advancement (STAMINA4Space) program funded by the Department of Science and Technology (DOST) and implemented by the Advanced Science and Technology Institute (DOST-ASTI) and University of the Philippines Diliman.
 
 # Research
-1. [Increasing the Awareness of the Benefits of Earth Observation Applications through the Space Information Infrastructure Capacity Building and Training Program (SIICaP)](https://doi.org/10.5194/isprs-annals-X-5-2024-127-2024)
-2. [Using LIDAR for the Solar Potential Analysis of Building Roofs ased on Urban 3D Model: A Case Study in Iloilo City, Philippines](http://dx.doi.org/10.13140/RG.2.2.28399.82087)
-3. [Exploring the Relationship of Air Pollution, Geo-Meteorological and Social Parameters to COVID-19 Infection Rates in NCR Plus Bubble Philippines using Multiscale Geographically Weighted Regression](http://dx.doi.org/10.13140/RG.2.2.30447.34722)
-4. [Geothermal Site Suitability Selection using GIS in the Province of Laguna, Philippines](http://dx.doi.org/10.13140/RG.2.2.20381.01768)
+### 1. Increasing the Awareness of the Benefits of Earth Observation Applications through the Space Information Infrastructure Capacity Building and Training Program (SIICaP)
+[DOI](https://doi.org/10.5194/isprs-annals-X-5-2024-127-2024)
+
+**Abstract.** Earth observation (EO) applications offer significant potential for addressing challenges and driving sustainable development in the Philippines. Despite the positive effect EO services can bring, its utilization encounter barriers that includes the lack of awareness of its benefits. The Philippine Space Agency (PhilSA) initiated the Space Information Infrastructure Capacity Building and Training Program (SIICaP) that aims to promote awareness of EO applications through free and inclusive online webinar platforms. This paper highlights the various webinars conducted by SIICaP showing their relevance in raising awareness of EO data, services, and programs. The analysis of evaluation results from the webinar participants further illustrates the program’s reach and success. By showcasing SIICaP, this paper contributes to efforts in developing capacity building programs that aim to have the same objectives of SIICaP.
+
+### 2. Using LIDAR for the Solar Potential Analysis of Building Roofs ased on Urban 3D Model: A Case Study in Iloilo City, Philippines
+[DOI](http://dx.doi.org/10.13140/RG.2.2.28399.82087)
+
+**Abstract.** LiDAR data provides high-resolution images for obtaining 3D geometry of buildings. It can be used to generate high precision solar potential maps. These maps can be used when planning for solar photovoltaic infrastructure investments in building roofs. They can be especially useful when it is visualized in three-dimensional perspective since it provides an intuitive reality. This paper tests and improved a methodology conducted by Prieto et. al. (2019) on using LiDAR to develop a 3D model of solar potential on building roofs in the City Proper of Iloilo City in the Philippines. The result is a 3D web environment showing solar potential of building roofs.
+
+### 3. Exploring the Relationship of Air Pollution, Geo-Meteorological and Social Parameters to COVID-19 Infection Rates in NCR Plus Bubble Philippines using Multiscale Geographically Weighted Regression
+
+[DOI](http://dx.doi.org/10.13140/RG.2.2.30447.34722)
+
+**Abstract.** The Philippines is not spared by the COVID-19 pandemic. Its epicenter Manila and neighboring provinces, or collectively known as "NCR Plus" was placed in a strict community quarantine because of resurgence of infection cases. To combat the spread of COVID-19, it is significant to study its relationship between many variables. This study aims to contribute a spatial analysis between COVID-19 infection rate and three themes of parameters-air pollution, geo-meteorological and social. Three models of Multiscale Geographically Weighted Regression (MGWR) were executed for the three themes respectively using data from January 2018 to March 2021. The statistical results revealed that air pollution, geo-meteorological and social accounted for approximately 74%, 16% and 69% of the variation in the data respectively. The spatial analysis showed that right most infection rates of NCR plus are more explained by these variables and lower areas are more susceptible of COVID-19 infection because of air pollution and social variables. Agencies can make use of these findings to formulate strategies reducing COVID-19 infection in the NCR Plus bubble.
+
+### 4. Geothermal Site Suitability Selection using GIS in the Province of Laguna, Philippines
+[DOI](http://dx.doi.org/10.13140/RG.2.2.20381.01768)
+
+**Abstract.** The Philippines has a long term plan to maximize the supply capacity of the nation's energy through geothermal resources. Geo-thermal energy is clean and renewable but locating these resources is a costly endeavor. The use of Geographical Information Systems (GIS) and datasets can be used to select and identify potential areas for geothermal exploration. This study aims to use GIS methods composed of six evidence and two restriction layers to determine geothermal suitability of areas in Laguna. The result of this study is a map with six suitability types. The framework presented in this study can be used as an initial exploration method to narrow target areas and lessen potential cost from ground surveys.
 
 # Contact
 You can reach me at [Email](cnpante@gmail.com) or [GitHub](nikkopante.github.io).
