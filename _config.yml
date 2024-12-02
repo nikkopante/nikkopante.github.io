@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Nikko Pante
-show_downloads: true
-logo: docs/assets/IMG_6993_JPEG.jpg
+show_downloads: false
+logo: docs/assets/logo.jpg
 description: I build geospatial web applications.
