@@ -71,6 +71,11 @@ The DIWATA Image Browser is a QGIS plugin that allows users to browse and downlo
 
 I was able to contribute to different applications for the management, access, and processing of Diwata-2 images in the Ground Receiving, Archiving, Science Product Development and Distribution (GRASED) project under the Space Technology and Applications Mastery, Innovation, and Advancement (STAMINA4Space) program funded by the Department of Science and Technology (DOST) and implemented by the Advanced Science and Technology Institute (DOST-ASTI) and University of the Philippines Diliman.
 
+# Research
+1. [Increasing the Awareness of the Benefits of Earth Observation Applications through the Space Information Infrastructure Capacity Building and Training Program (SIICaP)](https://doi.org/10.5194/isprs-annals-X-5-2024-127-2024)
+2. [Using LIDAR for the Solar Potential Analysis of Building Roofs ased on Urban 3D Model: A Case Study in Iloilo City, Philippines](http://dx.doi.org/10.13140/RG.2.2.28399.82087)
+3. [Exploring the Relationship of Air Pollution, Geo-Meteorological and Social Parameters to COVID-19 Infection Rates in NCR Plus Bubble Philippines using Multiscale Geographically Weighted Regression](http://dx.doi.org/10.13140/RG.2.2.30447.34722)
+4. [Geothermal Site Suitability Selection using GIS in the Province of Laguna, Philippines](http://dx.doi.org/10.13140/RG.2.2.20381.01768)
 
 # Contact
 You can reach me at [Email](cnpante@gmail.com) or [GitHub](nikkopante.github.io).
