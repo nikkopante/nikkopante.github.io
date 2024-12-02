@@ -1,14 +1,14 @@
-## About Me
+# About Me
 I have experience in cloud computing, low-code platforms, and technology communities.
 
-## Skills
+# Skills
 - Cloud Computing
 - GitHub & Git
 - Geospatial Web Development
 - Data Science
 - Python
 
-## :pushpin: Projects
+# Projects
 
 ### 1. WebGIS for Project SINAG
 
@@ -19,5 +19,5 @@ I have experience in cloud computing, low-code platforms, and technology communi
 
 The SINAG Web Portal is a GIS platform hosting spatial data and a forecasting model for assessing solar PV installations. It serves as a repository for outputs from the SolarPot and OutSolar components of the SINAG project. Developed with tools like Python, JavaScript, and a CMS on a cloud-based Linux system, the portal stores processed spatial data, model summaries, mapping tools, and more. It aims to support site selection for solar PV systems across the Philippines.
 
-## Contact
+# Contact
 You can reach me at [Email](cnpante@gmail.com) or [GitHub](nikkopante.github.io).
