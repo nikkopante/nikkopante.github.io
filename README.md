@@ -55,12 +55,19 @@ The SINAG Web Portal is a GIS platform hosting spatial data and a forecasting mo
 
 A web application showing solar photovoltaic energy potential of buildings in Iloilo City, Philippines. This is a project under my GmE 231 (LiDAR Remote Sensing) class. We were tasked to replicate an existing study on LiDAR applications. I picked Prieto et. al (2019) study on a methodology for computing solar potential of building roofs, creating 3D models, and presenting them in a web application.
 
-### 5. DIWATA QGIS Browser
+### 6. DIWATA QGIS Browser
 [Presentation](https://youtu.be/ASAHW9sxKzA)
 
 ![qgis](./docs/assets/qgis.png)
 
-The DIWATA Image Browser is a QGIS plugin that allows users to browse and download optical images captured by the DIWATA-2 satellite, a technology demonstration satellite owned by the Philippines. This plugin utilizes STAC and COG to index, visualize, and distribute satellite images. We will demonstrate how the QGIS environment communicates with the STAC endpoint to search and retrieve desired STAC items. The plugin speeds up the workflow by letting users load the images straight to the QGIS environment, bypass data preparation, and make data ready for analysis. I was able to present this project at the Open Geospatial Consortium 2022
+The DIWATA Image Browser is a QGIS plugin that allows users to browse and download optical images captured by the DIWATA-2 satellite, a technology demonstration satellite owned by the Philippines. This plugin utilizes STAC and COG to index, visualize, and distribute satellite images. We will demonstrate how the QGIS environment communicates with the STAC endpoint to search and retrieve desired STAC items. The plugin speeds up the workflow by letting users load the images straight to the QGIS environment, bypass data preparation, and make data ready for analysis. I was able to present this project at the Open Geospatial Consortium 2022.
+
+### 7. DIWATA Operations Software, Image Browser, Data Pipeline, and Tracker
+
+![diwata](./docs/assets/diwata.png)
+![diwata-2](./docs/assets/diwata-2.png)
+
+I was able to contribute to different applications for the management, access, and processing of DIWATA-2 images in the Ground Receiving, Archiving, Science Product Development and Distribution (GRASED) project under the Space Technology and Applications Mastery, Innovation, and Advancement (STAMINA4Space) program funded by the Department of Science and Technology (DOST) and implemented by the Advanced Science and Technology Institute (DOST-ASTI) and University of the Philippines Diliman.
 
 
 # Contact
