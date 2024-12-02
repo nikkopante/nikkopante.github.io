@@ -1,5 +1,8 @@
-# About Me
-I have experience in cloud computing, low-code platforms, and technology communities.
+# Links
+You can find other necessary information using these links
+1. [Curriculum Vitae](https://docs.google.com/document/d/1sVFTg_q1Tj5vawxVBw2o2VaUMnJgwoKbeOV-5PND_7Y/edit?usp=sharing)
+2. [LinkedIn](https://www.linkedin.com/in/cnpante/)
+3. 
 
 # Skills
 - Cloud Computing
@@ -99,4 +102,4 @@ I was able to contribute to different applications for the management, access, a
 **Abstract.** Bluetooth low energy beacons make it possible to satisfy information needs among students in a school campus. This includes wayfinding, activities, services and delivering dynamic contents on a day-to-day basis. A substantial number of universities and colleges have already adopted beacon facilities. However, evidence had not yet been seen for beacon’s ease of use and user acceptance inside academic institutions. Moreover, there is a need to understand the implications of usability in order to effectively adopt beacons for campus wide applications. This study examined the usability of beacons in case of delivering university announcements to undergraduates. A prototype beacon was programmed to disseminate bulletin messages to coming students of Ateneo de Naga University to their smartphones. A notification is delivered to their Bluetooth enabled devices and consequently would lead to the message. The System Usability Scale (SUS) was used to evaluate the usability of the aforesaid setup. Undergraduate samples were asked to answer a self-administered questionnaire based on the system. The results show how the participants perceived the applicability of beacons as a tool for supplying information needs on a school campus setting.
 
 # Contact
-You can reach me at my email [cnpante@gmail.com](mailto:cnpante@gmail.com).
+You can reach me at my email [cnpante@gmail.com](mailto:cnpante@gmail.com) or [social](https://www.facebook.com/cnpante1/).
