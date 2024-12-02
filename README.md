@@ -2,7 +2,6 @@
 You can find other necessary information using these links
 1. [Curriculum Vitae](https://docs.google.com/document/d/1sVFTg_q1Tj5vawxVBw2o2VaUMnJgwoKbeOV-5PND_7Y/edit?usp=sharing)
 2. [LinkedIn](https://www.linkedin.com/in/cnpante/)
-3. 
 
 # Skills
 - Cloud Computing
