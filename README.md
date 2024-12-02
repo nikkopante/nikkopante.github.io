@@ -7,6 +7,8 @@ I have experience in cloud computing, low-code platforms, and technology communi
 - Geospatial Web Development
 - Data Science
 - Python
+- GIS
+- Remote Sensing
 
 # Projects
 
@@ -16,6 +18,13 @@ I have experience in cloud computing, low-code platforms, and technology communi
 ![sdc](./docs/assets/sdc.png)
 
 The PhilSA Space Data Catalog lets users explore available satellite images that can be requested from the Philippine Space Agency (PhilSA). The application is built using Spatiotemporal Asset Catalog (STAC) for serving assets and Cloud Optimized GeoTIFF (COG) for seamless access of images.
+
+### 2. PhilSA Space Data Dashboard
+[Link](https://spacedata.philsa.gov.ph/) | [Publication](https://doi.org/10.5194/isprs-archives-XLVIII-4-W8-2023-219-2024)
+
+![sdc](./docs/assets/sdd.png)
+
+The PhilSA Space Data Dashboard lets users access derived space data products such as Land Surface Temperature (LST), Flood Maps, Air Quality, etc. I helped setup the Geoserver backend to enable serving of data.
 
 ### 1. WebGIS for Project SINAG
 
