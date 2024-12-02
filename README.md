@@ -8,11 +8,12 @@ I have experience in cloud computing, low-code platforms, and technology communi
 - Data Science
 - Python
 
-## Projects
+## :pushpin: Projects
 
-### WebGIS for Project SINAG
-URL: https://webgis.sinag.nec.upd.edu.ph/
-Publication: https://doi.org/10.5194/isprs-archives-XLVIII-4-W8-2023-107-2024
+### 1. WebGIS for Project SINAG
+
+[URL](https://webgis.sinag.nec.upd.edu.ph/) | 
+[Publication](https://doi.org/10.5194/isprs-archives-XLVIII-4-W8-2023-107-2024)
 
 ![sinag](./docs/assets/sinag.png)
 
