@@ -10,9 +10,16 @@ I have experience in cloud computing, low-code platforms, and technology communi
 
 # Projects
 
+### 1. PhilSA Space Data Catalog
+[Link](https://catalog.data.philsa.gov.ph/)
+
+![sdc](./docs/assets/sdc.png)
+
+The PhilSA Space Data Catalog lets users explore available satellite images that can be requested from the Philippine Space Agency (PhilSA). The application is built using Spatiotemporal Asset Catalog (STAC) for serving assets and Cloud Optimized GeoTIFF (COG) for seamless access of images.
+
 ### 1. WebGIS for Project SINAG
 
-[URL](https://webgis.sinag.nec.upd.edu.ph/) | 
+[Link](https://webgis.sinag.nec.upd.edu.ph/) | 
 [Publication](https://doi.org/10.5194/isprs-archives-XLVIII-4-W8-2023-107-2024)
 
 ![sinag](./docs/assets/sinag.png)
@@ -21,7 +28,7 @@ The SINAG Web Portal is a GIS platform hosting spatial data and a forecasting mo
 
 ### 2. Iloilo City Proper Building Roofs Solar Potential
 
-[URL](https://iloilo-solar-app.netlify.app/) | 
+[Link](https://iloilo-solar-app.netlify.app/) | 
 [Repository](https://github.com/nikkopante/iloilo-solar-app)
 
 ![sinag](./docs/assets/iloilo.png)
