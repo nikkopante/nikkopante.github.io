@@ -1,4 +1,3 @@
-theme: minimal-mistakes-jekyll
-codeminimal_mistakes_skin: dark
+theme: jekyll-theme-minimal
 title: Nikko Pante
 description: I build geospatial web applications.
