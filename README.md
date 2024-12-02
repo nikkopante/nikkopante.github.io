@@ -26,6 +26,18 @@ The PhilSA Space Data Catalog lets users explore available satellite images that
 
 The PhilSA Space Data Dashboard lets users access derived space data products such as Land Surface Temperature (LST), Flood Maps, Air Quality, etc. I helped setup the Geoserver backend to enable serving of data.
 
+### 3. PhilSA ODK Central
+Articles
+1. [PhilSA calls on the public to use open data science for space data mobilization during disasters and emergencies](https://philsa.gov.ph/news/philsa-calls-on-the-public-to-use-open-data-science-for-space-data-mobilization-during-disasters-and-emergencies/)
+2. [PINAS Project Citizen Science Network](https://philsa.gov.ph/news/pinas-project-citizen-science-network/)
+3. [Be part of the mangrove mapping efforts in the Philippines!](https://philsa.gov.ph/news/be-part-of-the-mangrove-mapping-efforts-in-the-philippines/)
+
+![sdc](./docs/assets/odk.png)
+
+The PhilSA ODK Central holds the database for citizen science data collection. The application has been used for disaster validation, improve mangrove maps, and land cover classification validation. I helped set up and maintain the app.
+
+
+
 ### 1. WebGIS for Project SINAG
 
 [Link](https://webgis.sinag.nec.upd.edu.ph/) | 
